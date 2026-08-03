@@ -1,6 +1,6 @@
 cask "raymol" do
-  version "1.8.0"
-  sha256 "b819888ad0b8f5662098eda8bb8e335ea1395bc657111379b9267d58784974e9"
+  version "1.8.1"
+  sha256 "16ea81950ee84772dfa9703ebf817f770ce712682018f1901ecc8a8126a571ef"
 
   url "https://github.com/javierbq/RayMol/releases/download/v#{version}/RayMol-#{version}.dmg"
   name "RayMol"
